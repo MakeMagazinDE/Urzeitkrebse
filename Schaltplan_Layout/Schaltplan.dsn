@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='950' height='800'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>0</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='25.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='7'>
+			<HEIGHT>-64</HEIGHT>
+			<WIDTH>30</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Asimov</FACENAME>
+		</FONT>
+		<FONT id='8'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='7'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='8'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>3</THICKNESS>
+		</STYLE>
+		<STYLE id='9'>
+			<STYLE>0</STYLE>
+			<COLOR>C0C0C0</COLOR>
+			<THICKNESS>3</THICKNESS>
+		</STYLE>
+		<STYLE id='10'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='11'>
+			<STYLE>0</STYLE>
+			<COLOR>FFFFFF</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='12'>
+			<STYLE>0</STYLE>
+			<COLOR>FFFFFF</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='1'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='4'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='6'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='8'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='10'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='11'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='12'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='13'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='15'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='16'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='17'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='18'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='19'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='20'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='21'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='22'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='23'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='24'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='25'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='26'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='27'>
+			<INDEX>0</INDEX>
+			<COLOR>808080</COLOR>
+		</FILL>
+		<FILL id='28'>
+			<INDEX>0</INDEX>
+			<COLOR>B6DCC5</COLOR>
+		</FILL>
+		<FILL id='29'>
+			<INDEX>0</INDEX>
+			<COLOR>FFDFBF</COLOR>
+		</FILL>
+		<FILL id='30'>
+			<INDEX>0</INDEX>
+			<COLOR>DED2F0</COLOR>
+		</FILL>
+		<FILL id='31'>
+			<INDEX>0</INDEX>
+			<COLOR>AEC9FF</COLOR>
+		</FILL>
+		<SYMBOLDEF id='1'>
+			<NAME type='0'>FUSE</NAME>
+			<REF type='0'>F?</REF>
+			<DESCRIPTION>Fuse</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='64.00000,54.00000'/>
+			<TinyCAD>
+				<PIN pos='62.00000,34.00000' which='0' elec='4' direction='1' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='62.00000,54.00000' which='0' elec='4' direction='0' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<POLYGON pos='62.00000,40.00000' style='7' fill='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='0.00000,8.00000' arc='0'/>
+				</POLYGON>
+				<RECTANGLE a='60.00000,40.00000' b='64.00000,48.00000' style='7' fill='0'/>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<RECTANGLE a='29.50000,56.00000' b='31.50000,58.00000' style='7' fill='25'/>
+		<RECTANGLE a='26.50000,56.00000' b='28.50000,58.00000' style='7' fill='25'/>
+		<RECTANGLE a='23.50000,56.00000' b='25.50000,58.00000' style='7' fill='25'/>
+		<RECTANGLE a='22.50000,57.00000' b='32.50000,62.00000' style='8' fill='24'/>
+		<ELLIPSE a='22.50000,59.00000' b='32.50000,64.00000' style='8' fill='22'/>
+		<RECTANGLE a='23.00000,58.00000' b='32.00000,62.00000' style='9' fill='22'/>
+		<RECTANGLE a='139.00000,142.00000' b='64.50000,50.50000' style='10' fill='29'/>
+		<RECTANGLE a='141.00000,113.00000' b='62.50000,52.50000' style='10' fill='28'/>
+		<RECTANGLE a='26.50000,19.50000' b='55.50000,36.50000' style='8' fill='30'/>
+		<TEXT pos='94.66000,129.34000' direction='3' font='5' color='000000'>ARDUINO</TEXT>
+		<TEXT pos='146.50000,142.00000' direction='3' font='6' color='000000'>C. Goebel - V1.0 - 07.07.2020</TEXT>
+		<WIRE a='173.50000,86.50000' b='143.50000,86.50000'/>
+		<TEXT pos='99.42000,134.34000' direction='3' font='5' color='000000'>UNO</TEXT>
+		<RECTANGLE a='85.50000,143.00000' b='74.50000,130.00000' style='7' fill='8'/>
+		<RECTANGLE a='132.00000,143.00000' b='124.50000,130.50000' style='7' fill='1'/>
+		<RECTANGLE a='69.50000,84.00000' b='67.50000,82.00000' style='7' fill='17'/>
+		<RECTANGLE a='69.50000,80.00000' b='67.50000,78.00000' style='7' fill='18'/>
+		<RECTANGLE a='69.50000,76.00000' b='67.50000,74.00000' style='7' fill='17'/>
+		<RECTANGLE a='69.50000,72.00000' b='67.50000,70.00000' style='7' fill='17'/>
+		<RECTANGLE a='69.50000,64.00000' b='67.50000,62.00000' style='7' fill='18'/>
+		<RECTANGLE a='69.50000,60.00000' b='67.50000,58.00000' style='7' fill='10'/>
+		<RECTANGLE a='69.50000,56.00000' b='67.50000,54.00000' style='7' fill='10'/>
+		<RECTANGLE a='69.50000,68.00000' b='67.50000,66.00000' style='7' fill='17'/>
+		<RECTANGLE a='69.50000,120.00000' b='67.50000,118.00000' style='7' fill='10'/>
+		<RECTANGLE a='69.50000,116.00000' b='67.50000,114.00000' style='7' fill='26'/>
+		<RECTANGLE a='69.50000,112.00000' b='67.50000,110.00000' style='7' fill='16'/>
+		<RECTANGLE a='69.50000,108.00000' b='67.50000,106.00000' style='7' fill='16'/>
+		<RECTANGLE a='69.50000,100.00000' b='67.50000,98.00000' style='7' fill='16'/>
+		<RECTANGLE a='69.50000,96.00000' b='67.50000,94.00000' style='7' fill='16'/>
+		<RECTANGLE a='69.50000,92.00000' b='67.50000,90.00000' style='7' fill='10'/>
+		<RECTANGLE a='69.50000,104.00000' b='67.50000,102.00000' style='7' fill='16'/>
+		<RECTANGLE a='69.50000,128.00000' b='67.50000,126.00000' style='7' fill='10'/>
+		<RECTANGLE a='69.50000,124.00000' b='67.50000,122.00000' style='7' fill='2'/>
+		<RECTANGLE a='136.00000,76.00000' b='134.00000,74.00000' style='7' fill='18'/>
+		<RECTANGLE a='136.00000,72.00000' b='134.00000,70.00000' style='7' fill='4'/>
+		<RECTANGLE a='136.00000,64.00000' b='134.00000,62.00000' style='7' fill='2'/>
+		<RECTANGLE a='136.00000,60.00000' b='134.00000,58.00000' style='7' fill='10'/>
+		<RECTANGLE a='136.00000,56.00000' b='134.00000,54.00000' style='7' fill='10'/>
+		<RECTANGLE a='136.00000,68.00000' b='134.00000,66.00000' style='7' fill='10'/>
+		<RECTANGLE a='136.00000,115.50000' b='134.00000,113.50000' style='7' fill='10'/>
+		<RECTANGLE a='136.00000,111.50000' b='134.00000,109.50000' style='7' fill='2'/>
+		<RECTANGLE a='136.00000,107.50000' b='134.00000,105.50000' style='7' fill='3'/>
+		<RECTANGLE a='136.00000,103.50000' b='134.00000,101.50000' style='7' fill='12'/>
+		<RECTANGLE a='136.00000,95.50000' b='134.00000,93.50000' style='7' fill='18'/>
+		<RECTANGLE a='136.00000,91.50000' b='134.00000,89.50000' style='7' fill='18'/>
+		<RECTANGLE a='136.00000,87.50000' b='134.00000,85.50000' style='7' fill='18'/>
+		<RECTANGLE a='136.00000,99.50000' b='134.00000,97.50000' style='7' fill='27'/>
+		<ELLIPSE a='14.00000,83.00000' b='41.50000,109.00000' style='8' fill='31'/>
+		<ELLIPSE a='17.00000,86.00000' b='38.50000,106.00000' style='7' fill='0'/>
+		<ELLIPSE a='20.00000,89.00000' b='35.50000,103.00000' style='7' fill='0'/>
+		<ELLIPSE a='23.00000,91.50000' b='32.50000,100.50000' style='7' fill='0'/>
+		<RECTANGLE a='40.50000,93.50000' b='42.50000,95.50000' style='7' fill='21'/>
+		<RECTANGLE a='40.50000,97.00000' b='42.50000,99.00000' style='7' fill='21'/>
+		<RECTANGLE a='25.00000,94.00000' b='27.00000,98.50000' style='7' fill='6'/>
+		<RECTANGLE a='27.00000,94.00000' b='29.00000,98.50000' style='7' fill='5'/>
+		<RECTANGLE a='29.00000,94.00000' b='31.00000,98.50000' style='7' fill='6'/>
+		<TEXT pos='25.00000,61.50000' direction='3' font='6' color='000000'>LM35</TEXT>
+		<TEXT pos='29.34000,82.40000' direction='0' font='7' color='000000'>~</TEXT>
+		<TEXT pos='31.84000,82.40000' direction='0' font='7' color='000000'>~</TEXT>
+		<TEXT pos='34.84000,82.40000' direction='0' font='7' color='000000'>~</TEXT>
+		<TEXT pos='37.34000,82.40000' direction='0' font='7' color='000000'>~</TEXT>
+		<TEXT pos='39.84000,82.40000' direction='0' font='7' color='000000'>~</TEXT>
+		<TEXT pos='70.98000,80.50000' direction='3' font='3' color='000000'>6</TEXT>
+		<TEXT pos='70.98000,68.50000' direction='3' font='3' color='000000'>3</TEXT>
+		<TEXT pos='70.98000,72.50000' direction='3' font='3' color='000000'>4</TEXT>
+		<TEXT pos='70.98000,84.50000' direction='3' font='3' color='000000'>7</TEXT>
+		<TEXT pos='70.98000,76.50000' direction='3' font='3' color='000000'>5</TEXT>
+		<TEXT pos='70.46000,108.50000' direction='3' font='3' color='000000'>12</TEXT>
+		<TEXT pos='70.46000,104.50000' direction='3' font='3' color='000000'>11</TEXT>
+		<TEXT pos='70.46000,112.50000' direction='3' font='3' color='000000'>13</TEXT>
+		<TEXT pos='70.46000,100.50000' direction='3' font='3' color='000000'>10</TEXT>
+		<TEXT pos='96.34000,60.34000' direction='3' font='5' color='000000'>Anzeige-</TEXT>
+		<TEXT pos='98.10000,65.84000' direction='3' font='5' color='000000'>Shield</TEXT>
+		<RECTANGLE a='104.00000,94.00000' b='123.50000,69.00000' style='7' fill='9'/>
+		<ELLIPSE a='120.00000,90.50000' b='122.00000,92.50000' style='7' fill='0'/>
+		<ELLIPSE a='120.00000,85.50000' b='122.00000,87.50000' style='7' fill='0'/>
+		<ELLIPSE a='120.00000,80.50000' b='122.00000,82.50000' style='7' fill='0'/>
+		<ELLIPSE a='120.00000,75.50000' b='122.00000,77.50000' style='7' fill='0'/>
+		<ELLIPSE a='120.00000,70.50000' b='122.00000,72.50000' style='7' fill='0'/>
+		<ELLIPSE a='105.50000,90.50000' b='107.50000,92.50000' style='7' fill='0'/>
+		<ELLIPSE a='105.50000,85.50000' b='107.50000,87.50000' style='7' fill='0'/>
+		<ELLIPSE a='105.50000,80.50000' b='107.50000,82.50000' style='7' fill='0'/>
+		<ELLIPSE a='105.50000,75.50000' b='107.50000,77.50000' style='7' fill='0'/>
+		<ELLIPSE a='105.50000,70.50000' b='107.50000,72.50000' style='7' fill='0'/>
+		<RECTANGLE a='110.00000,72.00000' b='117.50000,81.50000' style='11' fill='9'/>
+		<RECTANGLE a='110.00000,82.00000' b='117.50000,91.50000' style='11' fill='9'/>
+		<ELLIPSE a='118.00000,90.50000' b='119.50000,92.00000' style='12' fill='2'/>
+		<RECTANGLE a='84.00000,94.00000' b='103.50000,69.00000' style='7' fill='7'/>
+		<ELLIPSE a='100.00000,90.50000' b='102.00000,92.50000' style='7' fill='0'/>
+		<ELLIPSE a='100.00000,85.50000' b='102.00000,87.50000' style='7' fill='0'/>
+		<ELLIPSE a='100.00000,80.50000' b='102.00000,82.50000' style='7' fill='0'/>
+		<ELLIPSE a='100.00000,75.50000' b='102.00000,77.50000' style='7' fill='0'/>
+		<ELLIPSE a='100.00000,70.50000' b='102.00000,72.50000' style='7' fill='0'/>
+		<ELLIPSE a='85.50000,90.50000' b='87.50000,92.50000' style='7' fill='0'/>
+		<ELLIPSE a='85.50000,85.50000' b='87.50000,87.50000' style='7' fill='0'/>
+		<ELLIPSE a='85.50000,80.50000' b='87.50000,82.50000' style='7' fill='0'/>
+		<ELLIPSE a='85.50000,75.50000' b='87.50000,77.50000' style='7' fill='0'/>
+		<ELLIPSE a='85.50000,70.50000' b='87.50000,72.50000' style='7' fill='0'/>
+		<RECTANGLE a='90.00000,72.00000' b='97.50000,81.50000' style='11' fill='7'/>
+		<RECTANGLE a='90.00000,82.00000' b='97.50000,91.50000' style='11' fill='7'/>
+		<ELLIPSE a='98.00000,90.50000' b='99.50000,92.00000' style='12' fill='2'/>
+		<RECTANGLE a='50.50000,33.00000' b='52.50000,35.00000' style='7' fill='20'/>
+		<RECTANGLE a='47.50000,33.00000' b='49.50000,35.00000' style='7' fill='20'/>
+		<RECTANGLE a='29.50000,33.00000' b='31.50000,35.00000' style='7' fill='20'/>
+		<RECTANGLE a='32.50000,33.00000' b='34.50000,35.00000' style='7' fill='20'/>
+		<RECTANGLE a='29.50000,21.00000' b='31.50000,23.00000' style='7' fill='20'/>
+		<RECTANGLE a='32.50000,21.00000' b='34.50000,23.00000' style='7' fill='11'/>
+		<RECTANGLE a='35.50000,21.00000' b='37.50000,23.00000' style='7' fill='20'/>
+		<TEXT pos='41.60000,28.34000' direction='3' font='8' color='000000'>IRF520</TEXT>
+		<TEXT pos='34.96000,26.50000' direction='3' font='3' color='000000'>Sig</TEXT>
+		<TEXT pos='27.46000,26.50000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<RECTANGLE a='143.50000,87.50000' b='136.00000,85.50000' style='7' fill='14'/>
+		<RECTANGLE a='143.50000,99.50000' b='136.00000,97.50000' style='7' fill='13'/>
+		<RECTANGLE a='143.50000,95.50000' b='136.00000,93.50000' style='7' fill='13'/>
+		<RECTANGLE a='143.50000,91.50000' b='136.00000,89.50000' style='7' fill='19'/>
+		<TEXT pos='128.46000,92.00000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<TEXT pos='128.46000,96.00000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<TEXT pos='128.96000,88.00000' direction='3' font='3' color='000000'>Vin</TEXT>
+		<RECTANGLE a='143.50000,76.00000' b='136.00000,74.00000' style='7' fill='15'/>
+		<TEXT pos='128.96000,100.00000' direction='3' font='3' color='000000'>5V</TEXT>
+		<TEXT pos='128.96000,76.50000' direction='3' font='3' color='000000'>A0</TEXT>
+		<RECTANGLE a='67.50000,80.00000' b='60.00000,78.00000' style='7' fill='15'/>
+		<TEXT pos='70.46000,96.50000' direction='3' font='3' color='000000'>9</TEXT>
+		<TEXT pos='70.98000,64.50000' direction='3' font='3' color='000000'>2</TEXT>
+		<TEXT pos='176.00000,93.50000' direction='3' font='4' color='000000'>9V DC</TEXT>
+		<WIRE a='173.50000,95.00000' b='173.50000,86.50000'/>
+		<WIRE a='173.50000,98.00000' b='173.50000,104.50000'/>
+		<RECTANGLE a='168.50000,96.00000' b='178.50000,95.00000' style='7' fill='23'/>
+		<RECTANGLE a='170.50000,98.00000' b='176.50000,97.00000' style='7' fill='23'/>
+		<WIRE a='173.50000,104.50000' b='166.50000,104.50000'/>
+		<WIRE a='166.50000,90.50000' b='143.50000,90.50000'/>
+		<WIRE a='166.50000,90.50000' b='166.50000,104.50000'/>
+		<TEXT pos='27.46000,32.50000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<TEXT pos='32.96000,32.50000' direction='3' font='3' color='000000'>Vin</TEXT>
+		<TEXT pos='50.46000,32.50000' direction='3' font='3' color='000000'>V+</TEXT>
+		<TEXT pos='46.96000,32.50000' direction='3' font='3' color='000000'>V-</TEXT>
+		<WIRE a='166.50000,41.50000' b='166.50000,90.50000'/>
+		<WIRE a='173.50000,78.50000' b='173.50000,86.50000'/>
+		<WIRE a='30.50000,15.00000' b='30.50000,21.00000'/>
+		<WIRE a='30.50000,15.00000' b='159.50000,15.00000'/>
+		<WIRE a='159.50000,15.00000' b='159.50000,94.50000'/>
+		<WIRE a='159.50000,94.50000' b='143.50000,94.50000'/>
+		<WIRE a='30.50000,35.00000' b='30.50000,41.50000'/>
+		<WIRE a='30.50000,41.50000' b='166.50000,41.50000'/>
+		<WIRE a='33.50000,35.00000' b='33.50000,38.50000'/>
+		<WIRE a='48.50000,35.00000' b='48.50000,94.50000'/>
+		<WIRE a='51.50000,98.00000' b='42.50000,98.00000'/>
+		<WIRE a='48.50000,94.50000' b='42.50000,94.50000'/>
+		<TEXT pos='16.96000,58.50000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<TEXT pos='25.46000,67.00000' direction='3' font='3' color='000000'>Out</TEXT>
+		<TEXT pos='33.46000,58.50000' direction='3' font='3' color='000000'>V</TEXT>
+		<TEXT pos='70.46000,116.50000' direction='3' font='3' color='000000'>Gnd</TEXT>
+		<WIRE a='24.50000,47.50000' b='24.50000,56.00000'/>
+		<WIRE a='67.50000,115.00000' b='11.50000,115.00000'/>
+		<WIRE a='24.50000,47.50000' b='11.50000,47.50000'/>
+		<WIRE a='11.50000,47.50000' b='11.50000,115.00000'/>
+		<WIRE a='152.50000,98.50000' b='143.50000,98.50000'/>
+		<WIRE a='152.50000,44.50000' b='152.50000,98.50000'/>
+		<WIRE a='152.50000,44.50000' b='30.50000,44.50000'/>
+		<WIRE a='30.50000,44.50000' b='30.50000,56.00000'/>
+		<WIRE a='33.50000,38.50000' b='173.50000,38.50000'/>
+		<WIRE a='147.00000,75.00000' b='143.50000,75.00000'/>
+		<WIRE a='27.50000,47.50000' b='27.50000,56.00000'/>
+		<WIRE a='147.00000,47.50000' b='27.50000,47.50000'/>
+		<WIRE a='147.00000,47.50000' b='147.00000,75.00000'/>
+		<WIRE a='36.50000,17.50000' b='36.50000,21.00000'/>
+		<WIRE a='36.50000,17.50000' b='57.50000,17.50000'/>
+		<WIRE a='57.50000,17.50000' b='57.50000,79.00000'/>
+		<WIRE a='60.00000,79.00000' b='57.50000,79.00000'/>
+		<WIRE a='51.50000,35.00000' b='51.50000,98.00000'/>
+		<TEXT pos='73.48000,64.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,68.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,72.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,76.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,84.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,96.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,100.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,104.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,108.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<TEXT pos='73.48000,112.50000' direction='3' font='3' color='000000'>(Shield)</TEXT>
+		<JUNCTION pos='166.50000,90.50000'/>
+		<JUNCTION pos='173.50000,86.50000'/>
+		<TEXT pos='35.00000,110.50000' direction='3' font='6' color='000000'>Heizpad</TEXT>
+		<TEXT pos='33.50000,113.00000' direction='3' font='6' color='000000'>ca. 11 Ohm</TEXT>
+		<SYMBOL id='1' pos='175.50000,78.50000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='F1' show='1' pos='0.50000,-10.10000'/>
+			<FIELD type='0' description='Name' value='0.6A(F)' show='1' pos='0.50000,-8.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-13.20000'/>
+		</SYMBOL>
+		<WIRE a='173.50000,38.50000' b='173.50000,58.50000'/>
+	</TinyCAD>
+</TinyCADSheets>
