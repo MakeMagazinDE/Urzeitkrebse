@@ -23,7 +23,8 @@
 - [ ] Blankdraht
 - [ ] Isolierter Schaltdraht
 - [ ] Lot
-- [ ] Platine doppelseitig: [Dual Prototyp Universal PCB Platine 6x4cm](https://www.amazon.de/Universalplatine-Lochrasterplatte-Leiterplatte-Elektronische-Projekt/dp/B07R1W6169/)* Widerstände 8x 330 Ohm und 2x 1K Ohm
+- [ ] Platine doppelseitig: [Dual Prototyp Universal PCB Platine 6x4cm](https://www.amazon.de/Universalplatine-Lochrasterplatte-Leiterplatte-Elektronische-Projekt/dp/B07R1W6169/)
+- [ ] Widerstände 8x 330 Ohm und 2x 1K Ohm
 - [ ] 2x 7-Segmentanzeige
 - [ ] 2x Transistor BC547
 
